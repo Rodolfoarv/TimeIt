@@ -1,8 +1,3 @@
-Slideout Sidebar Demo
-=====================
+#Time it
+An application designed for the module "Development of Mobile Applications" which is an application used for oganizing groups, tasks and more of your daily life.
 
-A simple demo on how to add a Slide-out Sidebar Menu in iOS Apps using SWRevealViewController (https://github.com/John-Lluch/SWRevealViewController)
-
-For the details of the implementation, please refer to this tutorial:
-
-http://www.appcoda.com/ios-programming-sidebar-navigation-menu/
